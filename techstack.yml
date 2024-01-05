@@ -1,7 +1,8 @@
 repo_name: mucyoalexaxel/mucyoalexaxel
 report_id: 5467ba6f77c1431837f61da82a27f179
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-27T13:51:54+00:00'
+timestamp: '2024-01-05T08:32:42+00:00'
 requested_by: mucyoalexaxel
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mucyoalexaxel/mucyoalexaxel
   detection_source: Repo Metadata
